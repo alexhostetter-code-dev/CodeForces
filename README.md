@@ -1,2 +1,3 @@
 # CodeForces
 Source files for the many problems I will try to solve...
+All implementations are my own.
